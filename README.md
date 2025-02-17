@@ -2,7 +2,7 @@
 Hi, my name is Rached and I am not a software engineer by trade. But I love writing tools and learning new things.  Lately I have been focused on developing my AI skills.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rachedblili&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rachedblili&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rachedblili&theme=solarized-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rachedblili&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
