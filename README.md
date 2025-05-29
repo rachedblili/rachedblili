@@ -2,6 +2,7 @@
 Hi, my name is Rached and I am not a software engineer by trade. But I love writing tools and learning new things.  Lately I have been focused on developing my AI skills.
 
 # 🛠️ **Some of my Projects**
+- [Complete Tutorial on moving Agents to MCP ](https://github.com/rachedblili/MCP-Transition) - I always like to understand things step by step. This is my attempt to show how a simple tool-using agent can be evolved to use MCP-based tools.
 - [One Agent - 8 Frameworks](https://github.com/rachedblili/AgentExamples) - I implemented the same agent in a variety of frameworks to illustate what it takes to get a basic tool-using agent working. 
 - [LLM Battleground](https://www.strikerit.com/llm-battleground/) - A multi-agent LLM evaluation system that lets your own prompt determine the evaluation criteria.
 - [Sunfire Video App](https://github.com/rachedblili/Sunfire) - A generative AI based application that makes it ridiculously easy to create 30 second promotional videos.
